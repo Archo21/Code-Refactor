@@ -4,3 +4,4 @@ This project's purpose was to refactor a webpage so that the links are function,
 
 ![](images/online-reputation-management.jpg)
 
+![](images/search-engine-optimization.jpg)
